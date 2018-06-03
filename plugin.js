@@ -13,13 +13,13 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
         }
     }
 
-    function DefaultSkin() {
+    function AmprodesSkin() {
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'Amprodes Skin';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'amprodesskin';
 
         var clockInterval;
         self.load = function () {
