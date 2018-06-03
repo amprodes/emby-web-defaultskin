@@ -19,7 +19,7 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby-web-defaultskin/package.json
+Install into the app by installing a plugin from a url. The url is: https://github.com/amprodes/emby-web-defaultskin//package.json
 
 # Local Testing
 
@@ -31,9 +31,9 @@ To start the server, enter
 
 http-server -p 8088 --cors
 
-Now you can install into Emby Theater using the http://localhost:8088/package.json
+Now you can install into Emby Theater using the http://localhost:8080/package.json
 
-To do this: type http://localhost:8088 into your browser bar. (This will confirm that 1. The server is running and 2 you can access your repository.
+To do this: type http://localhost:8080 into your browser bar. (This will confirm that 1. The server is running and 2 you can access your repository.
 Next, find your folder for your theme and locate the package.json file.
 Click this and you should see what's written in the the package.json in your browser
 Copy this address (CTRL+C)
