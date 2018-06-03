@@ -1,7 +1,7 @@
 define([''], function () {
 
     return {
-        id: 'defaulttheme',
-        name: 'Default Theme'
+        id: 'amprodestheme',
+        name: 'Amprodes Theme'
     };
 });
