@@ -18,4 +18,4 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby-web-defaulttheme/package.json
+Install into the app by installing a plugin from a url. The url is: https://github.com/amprodes/emby-web-defaultskin/package.json
